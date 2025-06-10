@@ -19,7 +19,7 @@ dynamic layers by encompassing variations in width, depth, and expansion in each
 support a wide range of architectures. 
 
 <h1 align="center">
-  <img src="images/ProARD.png" width="500"/>
+  <img src="images/ProARD.png" width="1000"/>
 </h1>
 
 
